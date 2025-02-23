@@ -707,5 +707,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
+    "criteria": {
+      "has_pitcher_plant": "2025-02-23 13:05:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4189
 }
