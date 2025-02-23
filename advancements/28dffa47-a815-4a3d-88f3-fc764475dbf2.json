@@ -887,6 +887,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-02-23 14:46:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/field_masoned_banner_pattern": {
     "criteria": {
       "has_bricks": "2025-02-23 13:42:13 +0000"
