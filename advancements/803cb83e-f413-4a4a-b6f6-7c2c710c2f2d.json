@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2025-02-24 18:46:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/bamboo_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-24 18:46:57 +0000"
@@ -266,12 +272,6 @@
   "minecraft:recipes/building_blocks/bamboo_slab": {
     "criteria": {
       "has_planks": "2025-02-24 18:46:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bamboo_planks": {
-    "criteria": {
-      "has_logs": "2025-02-24 18:46:56 +0000"
     },
     "done": true
   },
@@ -320,6 +320,90 @@
   "minecraft:recipes/decorations/bamboo_fence": {
     "criteria": {
       "has_planks": "2025-02-24 18:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-02-25 18:16:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-02-25 18:17:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-02-25 18:17:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-02-25 18:17:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-02-25 18:17:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-02-25 18:16:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-02-25 18:17:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-02-25 18:16:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-02-25 18:17:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-02-25 18:16:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-02-25 18:16:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-02-25 18:17:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-02-25 18:16:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-02-25 18:17:26 +0000"
     },
     "done": true
   },
