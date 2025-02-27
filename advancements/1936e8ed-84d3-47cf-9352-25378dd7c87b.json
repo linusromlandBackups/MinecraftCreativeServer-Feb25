@@ -857,6 +857,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-02-27 17:49:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-02-27 17:40:58 +0000"
@@ -866,6 +872,12 @@
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2025-02-27 17:40:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-02-27 17:48:37 +0000"
     },
     "done": true
   },
