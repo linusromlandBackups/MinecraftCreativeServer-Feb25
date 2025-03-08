@@ -1295,33 +1295,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2025-03-08 10:31:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/resin_brick_wall": {
-    "criteria": {
-      "has_resin_bricks": "2025-03-08 10:35:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/resin_brick_wall_from_resin_bricks_stonecutting": {
-    "criteria": {
-      "has_resin_bricks": "2025-03-08 10:35:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/resin_brick_stairs_from_resin_bricks_stonecutting": {
-    "criteria": {
-      "has_resin_bricks": "2025-03-08 10:35:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-03-08 10:31:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-03-08 10:31:44 +0000"
     },
     "done": true
   },
@@ -1337,12 +1319,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_resin_bricks_from_resin_bricks_stonecutting": {
-    "criteria": {
-      "has_resin_bricks": "2025-03-08 10:35:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/pale_oak_boat": {
     "criteria": {
       "in_water": "2025-03-08 10:31:44 +0000"
@@ -1355,27 +1331,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/resin_brick_slab_from_resin_bricks_stonecutting": {
-    "criteria": {
-      "has_resin_bricks": "2025-03-08 10:35:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2025-03-08 10:38:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-03-08 10:31:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/resin_brick_stairs": {
-    "criteria": {
-      "has_resin_bricks": "2025-03-08 10:35:08 +0000"
     },
     "done": true
   },
@@ -1403,9 +1361,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/resin_brick_wall": {
+    "criteria": {
+      "has_resin_bricks": "2025-03-08 10:35:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/resin_brick_wall_from_resin_bricks_stonecutting": {
+    "criteria": {
+      "has_resin_bricks": "2025-03-08 10:35:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/resin_brick_stairs_from_resin_bricks_stonecutting": {
+    "criteria": {
+      "has_resin_bricks": "2025-03-08 10:35:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_resin_bricks_from_resin_bricks_stonecutting": {
+    "criteria": {
+      "has_resin_bricks": "2025-03-08 10:35:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/resin_brick_slab_from_resin_bricks_stonecutting": {
+    "criteria": {
+      "has_resin_bricks": "2025-03-08 10:35:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/resin_brick_stairs": {
+    "criteria": {
+      "has_resin_bricks": "2025-03-08 10:35:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/resin_brick_slab": {
     "criteria": {
       "has_resin_bricks": "2025-03-08 10:35:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-03-08 10:38:18 +0000"
     },
     "done": true
   },
