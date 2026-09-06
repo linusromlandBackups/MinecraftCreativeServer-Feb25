@@ -1,0 +1,48 @@
+{
+  "stats": {
+    "minecraft:dropped": {
+      "minecraft:trial_spawner": 2,
+      "minecraft:fox_spawn_egg": 1,
+      "minecraft:panda_spawn_egg": 1,
+      "minecraft:acacia_boat": 11,
+      "minecraft:lead": 1,
+      "minecraft:leather": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:lead": 1,
+      "minecraft:fox_spawn_egg": 1,
+      "minecraft:acacia_boat": 2,
+      "minecraft:trial_spawner": 2,
+      "minecraft:bamboo": 1,
+      "minecraft:panda_spawn_egg": 1,
+      "minecraft:leather": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 3254,
+      "minecraft:walk_one_cm": 37372,
+      "minecraft:leave_game": 1,
+      "minecraft:damage_dealt": 70,
+      "minecraft:boat_one_cm": 26329,
+      "minecraft:play_time": 25848,
+      "minecraft:jump": 212,
+      "minecraft:time_since_death": 3195,
+      "minecraft:drop": 17,
+      "minecraft:bell_ring": 1,
+      "minecraft:sprint_one_cm": 6351,
+      "minecraft:fall_one_cm": 300,
+      "minecraft:happy_ghast_one_cm": 95161,
+      "minecraft:total_world_time": 25848,
+      "minecraft:fly_one_cm": 269149,
+      "minecraft:crouch_one_cm": 68,
+      "minecraft:sneak_time": 57,
+      "minecraft:deaths": 2,
+      "minecraft:interact_with_stonecutter": 2
+    },
+    "minecraft:used": {
+      "minecraft:acacia_boat": 5,
+      "minecraft:fox_spawn_egg": 20,
+      "minecraft:panda_spawn_egg": 14
+    }
+  },
+  "DataVersion": 4903
+}
