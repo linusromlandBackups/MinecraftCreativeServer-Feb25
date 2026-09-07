@@ -1,5 +1,8 @@
 {
   "stats": {
+    "minecraft:killed_by": {
+      "minecraft:player": 1
+    },
     "minecraft:dropped": {
       "minecraft:sugar": 5,
       "minecraft:observer": 1,
@@ -50,6 +53,37 @@
       "minecraft:gray_wool": 1,
       "minecraft:netherite_hoe": 1
     },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 50939,
+      "minecraft:leave_game": 29,
+      "minecraft:damage_taken": 1360,
+      "minecraft:mob_kills": 3,
+      "minecraft:time_since_death": 50804,
+      "minecraft:interact_with_furnace": 18,
+      "minecraft:inspect_dispenser": 12,
+      "minecraft:total_world_time": 366880,
+      "minecraft:crouch_one_cm": 20600,
+      "minecraft:deaths": 14,
+      "minecraft:player_kills": 1,
+      "minecraft:walk_one_cm": 1333075,
+      "minecraft:walk_under_water_one_cm": 283,
+      "minecraft:play_time": 366880,
+      "minecraft:damage_dealt": 501,
+      "minecraft:jump": 2577,
+      "minecraft:drop": 159,
+      "minecraft:sprint_one_cm": 286350,
+      "minecraft:open_chest": 63,
+      "minecraft:fill_cauldron": 1,
+      "minecraft:inspect_hopper": 79,
+      "minecraft:fall_one_cm": 225,
+      "minecraft:fly_one_cm": 1625621,
+      "minecraft:walk_on_water_one_cm": 7620,
+      "minecraft:sneak_time": 10749
+    },
+    "minecraft:killed": {
+      "minecraft:slime": 1,
+      "minecraft:sheep": 1
+    },
     "minecraft:picked_up": {
       "minecraft:dirt": 1,
       "minecraft:cobblestone": 29,
@@ -83,37 +117,6 @@
       "minecraft:gray_wool": 1,
       "minecraft:netherite_sword": 1
     },
-    "minecraft:custom": {
-      "minecraft:time_since_rest": 46256,
-      "minecraft:leave_game": 28,
-      "minecraft:damage_taken": 1360,
-      "minecraft:mob_kills": 3,
-      "minecraft:time_since_death": 46121,
-      "minecraft:interact_with_furnace": 18,
-      "minecraft:inspect_dispenser": 12,
-      "minecraft:total_world_time": 362197,
-      "minecraft:crouch_one_cm": 20490,
-      "minecraft:deaths": 14,
-      "minecraft:player_kills": 1,
-      "minecraft:walk_one_cm": 1308983,
-      "minecraft:walk_under_water_one_cm": 283,
-      "minecraft:play_time": 362197,
-      "minecraft:damage_dealt": 501,
-      "minecraft:jump": 2559,
-      "minecraft:drop": 159,
-      "minecraft:sprint_one_cm": 285734,
-      "minecraft:open_chest": 63,
-      "minecraft:fill_cauldron": 1,
-      "minecraft:inspect_hopper": 79,
-      "minecraft:fall_one_cm": 225,
-      "minecraft:fly_one_cm": 1614371,
-      "minecraft:walk_on_water_one_cm": 7620,
-      "minecraft:sneak_time": 10579
-    },
-    "minecraft:killed": {
-      "minecraft:slime": 1,
-      "minecraft:sheep": 1
-    },
     "minecraft:used": {
       "minecraft:stone_brick_wall": 31,
       "minecraft:oak_trapdoor": 2,
@@ -142,6 +145,7 @@
       "minecraft:redstone": 166,
       "minecraft:pumpkin_seeds": 39,
       "minecraft:weathered_cut_copper_stairs": 37,
+      "minecraft:oak_log": 20,
       "minecraft:cobblestone": 69,
       "minecraft:hopper": 89,
       "minecraft:end_stone_bricks": 43,
@@ -165,6 +169,7 @@
       "minecraft:white_concrete": 35,
       "minecraft:redstone_block": 2,
       "minecraft:chicken_spawn_egg": 214,
+      "minecraft:oak_leaves": 49,
       "minecraft:chest_minecart": 2,
       "minecraft:cobblestone_slab": 58,
       "minecraft:dispenser": 6,
@@ -181,9 +186,6 @@
       "minecraft:oxidized_cut_copper_stairs": 1,
       "minecraft:quartz_stairs": 2,
       "minecraft:bedrock": 8
-    },
-    "minecraft:killed_by": {
-      "minecraft:player": 1
     }
   },
   "DataVersion": 4903
