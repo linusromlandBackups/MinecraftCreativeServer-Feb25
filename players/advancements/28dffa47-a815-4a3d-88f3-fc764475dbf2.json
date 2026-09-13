@@ -10306,5 +10306,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_copper_lantern_from_honeycomb": {
+    "criteria": {
+      "has_copper_lantern": "2026-09-13 18:29:40 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4903
 }
