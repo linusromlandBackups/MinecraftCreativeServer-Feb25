@@ -18,21 +18,22 @@
       "minecraft:leather": 1
     },
     "minecraft:custom": {
-      "minecraft:time_since_rest": 6824,
-      "minecraft:walk_one_cm": 43567,
-      "minecraft:leave_game": 2,
+      "minecraft:time_since_rest": 9595,
+      "minecraft:walk_one_cm": 44705,
+      "minecraft:leave_game": 3,
       "minecraft:damage_dealt": 70,
       "minecraft:boat_one_cm": 26329,
-      "minecraft:play_time": 29418,
-      "minecraft:jump": 229,
-      "minecraft:time_since_death": 6765,
+      "minecraft:play_time": 32189,
+      "minecraft:jump": 243,
+      "minecraft:time_since_death": 9536,
       "minecraft:drop": 17,
       "minecraft:bell_ring": 1,
       "minecraft:sprint_one_cm": 6351,
       "minecraft:fall_one_cm": 300,
       "minecraft:happy_ghast_one_cm": 95161,
-      "minecraft:total_world_time": 29418,
-      "minecraft:fly_one_cm": 269149,
+      "minecraft:total_world_time": 32189,
+      "minecraft:fly_one_cm": 328889,
+      "minecraft:walk_on_water_one_cm": 585,
       "minecraft:crouch_one_cm": 68,
       "minecraft:sneak_time": 112,
       "minecraft:deaths": 2,
@@ -41,7 +42,9 @@
     "minecraft:used": {
       "minecraft:acacia_boat": 5,
       "minecraft:fox_spawn_egg": 21,
-      "minecraft:panda_spawn_egg": 21
+      "minecraft:trial_spawner": 1,
+      "minecraft:panda_spawn_egg": 21,
+      "minecraft:bamboo": 1
     }
   },
   "DataVersion": 4903

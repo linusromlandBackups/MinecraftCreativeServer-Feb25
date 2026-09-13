@@ -1,8 +1,5 @@
 {
   "stats": {
-    "minecraft:killed_by": {
-      "minecraft:player": 1
-    },
     "minecraft:dropped": {
       "minecraft:sugar": 5,
       "minecraft:observer": 1,
@@ -53,36 +50,39 @@
       "minecraft:gray_wool": 1,
       "minecraft:netherite_hoe": 1
     },
-    "minecraft:custom": {
-      "minecraft:time_since_rest": 50939,
-      "minecraft:leave_game": 29,
-      "minecraft:damage_taken": 1360,
-      "minecraft:mob_kills": 3,
-      "minecraft:time_since_death": 50804,
-      "minecraft:interact_with_furnace": 18,
-      "minecraft:inspect_dispenser": 12,
-      "minecraft:total_world_time": 366880,
-      "minecraft:crouch_one_cm": 20600,
-      "minecraft:deaths": 14,
-      "minecraft:player_kills": 1,
-      "minecraft:walk_one_cm": 1333075,
-      "minecraft:walk_under_water_one_cm": 283,
-      "minecraft:play_time": 366880,
-      "minecraft:damage_dealt": 501,
-      "minecraft:jump": 2577,
-      "minecraft:drop": 159,
-      "minecraft:sprint_one_cm": 286350,
-      "minecraft:open_chest": 63,
-      "minecraft:fill_cauldron": 1,
-      "minecraft:inspect_hopper": 79,
-      "minecraft:fall_one_cm": 225,
-      "minecraft:fly_one_cm": 1625621,
-      "minecraft:walk_on_water_one_cm": 7620,
-      "minecraft:sneak_time": 10749
+    "minecraft:killed_by": {
+      "minecraft:player": 1
     },
     "minecraft:killed": {
       "minecraft:slime": 1,
       "minecraft:sheep": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 54276,
+      "minecraft:leave_game": 30,
+      "minecraft:damage_taken": 1360,
+      "minecraft:mob_kills": 3,
+      "minecraft:time_since_death": 54141,
+      "minecraft:interact_with_furnace": 18,
+      "minecraft:inspect_dispenser": 12,
+      "minecraft:total_world_time": 370217,
+      "minecraft:crouch_one_cm": 20600,
+      "minecraft:deaths": 14,
+      "minecraft:player_kills": 1,
+      "minecraft:walk_one_cm": 1343702,
+      "minecraft:walk_under_water_one_cm": 283,
+      "minecraft:play_time": 370217,
+      "minecraft:damage_dealt": 501,
+      "minecraft:jump": 2670,
+      "minecraft:drop": 159,
+      "minecraft:sprint_one_cm": 292123,
+      "minecraft:open_chest": 63,
+      "minecraft:fill_cauldron": 1,
+      "minecraft:inspect_hopper": 79,
+      "minecraft:fall_one_cm": 225,
+      "minecraft:fly_one_cm": 1678165,
+      "minecraft:walk_on_water_one_cm": 9078,
+      "minecraft:sneak_time": 10752
     },
     "minecraft:picked_up": {
       "minecraft:dirt": 1,

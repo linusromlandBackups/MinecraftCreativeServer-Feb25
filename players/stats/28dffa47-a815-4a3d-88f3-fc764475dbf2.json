@@ -1,7 +1,7 @@
 {
   "stats": {
-    "minecraft:killed_by": {
-      "minecraft:player": 3
+    "minecraft:mined": {
+      "minecraft:diamond_ore": 1
     },
     "minecraft:dropped": {
       "minecraft:cobblestone": 192,
@@ -20,41 +20,8 @@
       "minecraft:diamond_ore": 1,
       "minecraft:diamond": 84
     },
-    "minecraft:custom": {
-      "minecraft:time_since_rest": 23321,
-      "minecraft:leave_game": 171,
-      "minecraft:damage_taken": 3804,
-      "minecraft:mob_kills": 14,
-      "minecraft:time_since_death": 23297,
-      "minecraft:interact_with_furnace": 16,
-      "minecraft:happy_ghast_one_cm": 72598,
-      "minecraft:swim_one_cm": 2041,
-      "minecraft:total_world_time": 736606,
-      "minecraft:crouch_one_cm": 45021,
-      "minecraft:deaths": 62,
-      "minecraft:player_kills": 1,
-      "minecraft:interact_with_crafting_table": 1,
-      "minecraft:inspect_dropper": 83,
-      "minecraft:walk_one_cm": 1290609,
-      "minecraft:walk_under_water_one_cm": 16370,
-      "minecraft:damage_dealt": 2432,
-      "minecraft:play_time": 736606,
-      "minecraft:jump": 2918,
-      "minecraft:drop": 42,
-      "minecraft:use_cauldron": 25,
-      "minecraft:bell_ring": 7,
-      "minecraft:sprint_one_cm": 285582,
-      "minecraft:open_chest": 123,
-      "minecraft:interact_with_smoker": 16,
-      "minecraft:inspect_hopper": 87,
-      "minecraft:fall_one_cm": 6053,
-      "minecraft:fly_one_cm": 3228813,
-      "minecraft:interact_with_anvil": 1,
-      "minecraft:walk_on_water_one_cm": 36825,
-      "minecraft:sneak_time": 25423
-    },
-    "minecraft:mined": {
-      "minecraft:diamond_ore": 1
+    "minecraft:killed_by": {
+      "minecraft:player": 3
     },
     "minecraft:killed": {
       "minecraft:happy_ghast": 1,
@@ -108,6 +75,39 @@
       "minecraft:chest": 1,
       "minecraft:comparator": 4,
       "minecraft:netherite_sword": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 25505,
+      "minecraft:leave_game": 172,
+      "minecraft:damage_taken": 3804,
+      "minecraft:mob_kills": 14,
+      "minecraft:time_since_death": 25481,
+      "minecraft:interact_with_furnace": 16,
+      "minecraft:happy_ghast_one_cm": 72598,
+      "minecraft:swim_one_cm": 2041,
+      "minecraft:total_world_time": 738790,
+      "minecraft:crouch_one_cm": 45181,
+      "minecraft:deaths": 62,
+      "minecraft:player_kills": 1,
+      "minecraft:interact_with_crafting_table": 1,
+      "minecraft:inspect_dropper": 83,
+      "minecraft:walk_one_cm": 1291743,
+      "minecraft:walk_under_water_one_cm": 16370,
+      "minecraft:damage_dealt": 2432,
+      "minecraft:play_time": 738790,
+      "minecraft:jump": 2941,
+      "minecraft:drop": 42,
+      "minecraft:use_cauldron": 25,
+      "minecraft:bell_ring": 7,
+      "minecraft:sprint_one_cm": 285894,
+      "minecraft:open_chest": 123,
+      "minecraft:interact_with_smoker": 16,
+      "minecraft:inspect_hopper": 87,
+      "minecraft:fall_one_cm": 6053,
+      "minecraft:fly_one_cm": 3244956,
+      "minecraft:interact_with_anvil": 1,
+      "minecraft:walk_on_water_one_cm": 36996,
+      "minecraft:sneak_time": 25510
     },
     "minecraft:used": {
       "minecraft:polished_tuff": 98,
