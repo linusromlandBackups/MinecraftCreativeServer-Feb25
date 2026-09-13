@@ -10300,5 +10300,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_shelf": {
+    "criteria": {
+      "has_stripped_oak_log": "2026-09-13 16:01:20 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4903
 }
