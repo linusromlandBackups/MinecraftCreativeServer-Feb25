@@ -1,11 +1,17 @@
 {
   "stats": {
     "minecraft:dropped": {
-      "minecraft:trial_spawner": 2,
-      "minecraft:fox_spawn_egg": 1,
-      "minecraft:panda_spawn_egg": 1,
+      "minecraft:trial_spawner": 3,
+      "minecraft:fox_spawn_egg": 2,
+      "minecraft:blackstone_stairs": 1,
+      "minecraft:blackstone_wall": 1,
+      "minecraft:blackstone_slab": 1,
+      "minecraft:blackstone": 1,
+      "minecraft:panda_spawn_egg": 2,
+      "minecraft:bamboo": 5,
       "minecraft:acacia_boat": 11,
       "minecraft:lead": 1,
+      "minecraft:dark_oak_log": 1,
       "minecraft:leather": 1
     },
     "minecraft:picked_up": {
@@ -18,31 +24,35 @@
       "minecraft:leather": 1
     },
     "minecraft:custom": {
-      "minecraft:time_since_rest": 9595,
-      "minecraft:walk_one_cm": 44705,
-      "minecraft:leave_game": 3,
+      "minecraft:time_since_rest": 35266,
+      "minecraft:walk_one_cm": 55251,
+      "minecraft:leave_game": 4,
       "minecraft:damage_dealt": 70,
       "minecraft:boat_one_cm": 26329,
-      "minecraft:play_time": 32189,
-      "minecraft:jump": 243,
-      "minecraft:time_since_death": 9536,
-      "minecraft:drop": 17,
+      "minecraft:play_time": 57860,
+      "minecraft:jump": 254,
+      "minecraft:time_since_death": 35207,
+      "minecraft:drop": 26,
       "minecraft:bell_ring": 1,
-      "minecraft:sprint_one_cm": 6351,
+      "minecraft:sprint_one_cm": 6397,
       "minecraft:fall_one_cm": 300,
       "minecraft:happy_ghast_one_cm": 95161,
-      "minecraft:total_world_time": 32189,
-      "minecraft:fly_one_cm": 328889,
+      "minecraft:total_world_time": 57860,
+      "minecraft:fly_one_cm": 374962,
       "minecraft:walk_on_water_one_cm": 585,
       "minecraft:crouch_one_cm": 68,
-      "minecraft:sneak_time": 112,
+      "minecraft:sneak_time": 148,
       "minecraft:deaths": 2,
       "minecraft:interact_with_stonecutter": 2
     },
     "minecraft:used": {
+      "minecraft:spruce_log": 10,
       "minecraft:acacia_boat": 5,
       "minecraft:fox_spawn_egg": 21,
       "minecraft:trial_spawner": 1,
+      "minecraft:spruce_planks": 1,
+      "minecraft:polished_blackstone_brick_stairs": 34,
+      "minecraft:polished_blackstone_bricks": 91,
       "minecraft:panda_spawn_egg": 21,
       "minecraft:bamboo": 1
     }
