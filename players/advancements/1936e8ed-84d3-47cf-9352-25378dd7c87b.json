@@ -1973,21 +1973,21 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2026-09-18 19:12:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
-    "criteria": {
-      "has_chainmail_helmet": "2026-09-18 19:15:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2026-09-18 19:01:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/who_needs_rockets": {
+    "criteria": {
+      "who_needs_rockets": "2026-09-18 19:03:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2026-09-18 19:12:58 +0000"
     },
     "done": true
   },
@@ -1997,15 +1997,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_chainmail_helmet": "2026-09-18 19:15:45 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/who_needs_rockets": {
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
-      "who_needs_rockets": "2026-09-18 19:03:53 +0000"
+      "has_chainmail_helmet": "2026-09-18 19:15:45 +0000"
     },
     "done": true
   },
