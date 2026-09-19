@@ -4244,10 +4244,8 @@
   },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
-      "has_brown_mushroom": "2025-02-23 17:11:04 +0000",
       "has_mushroom_stew": "2025-02-23 17:11:04 +0000",
       "has_bowl": "2025-02-23 17:11:04 +0000",
-      "has_red_mushroom": "2025-02-23 17:11:04 +0000",
       "has_the_recipe": "2025-02-23 17:11:04 +0000"
     },
     "done": true
@@ -4600,9 +4598,7 @@
   },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
-      "has_brown_mushroom": "2025-02-23 17:11:04 +0000",
       "has_mushroom_stew": "2025-02-23 17:11:04 +0000",
-      "has_red_mushroom": "2025-02-23 17:11:04 +0000",
       "has_the_recipe": "2025-02-23 17:11:04 +0000"
     },
     "done": true
@@ -10312,5 +10308,29 @@
     },
     "done": true
   },
-  "DataVersion": 4903
+  "minecraft:recipes/decorations/cobblestone_wall_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-09-19 14:01:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-09-19 14:01:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-09-19 14:01:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-09-19 14:01:27 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 5023
 }

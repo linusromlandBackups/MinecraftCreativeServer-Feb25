@@ -1542,5 +1542,35 @@
     },
     "done": true
   },
-  "DataVersion": 4903
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_slab": "2026-09-19 14:02:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_cut_copper_slab": "2026-09-19 14:21:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_chiseled_copper": {
+    "criteria": {
+      "has_slab": "2026-09-19 14:21:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_bars_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper_bars": "2026-09-19 14:21:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2026-09-19 14:31:44 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 5023
 }

@@ -1,36 +1,23 @@
 {
   "stats": {
-    "minecraft:dropped": {
-      "minecraft:netherite_spear": 1,
-      "minecraft:redstone_block": 1
-    },
-    "minecraft:killed": {
-      "minecraft:slime": 30,
-      "minecraft:horse": 12,
-      "minecraft:chicken": 7,
-      "minecraft:iron_golem": 2,
-      "minecraft:sheep": 5,
-      "minecraft:frog": 3,
-      "minecraft:sniffer": 4
-    },
     "minecraft:custom": {
       "minecraft:minecart_one_cm": 2911,
-      "minecraft:time_since_rest": 6170,
+      "minecraft:time_since_rest": 6202,
       "minecraft:inspect_dropper": 2,
       "minecraft:walk_one_cm": 330529,
-      "minecraft:leave_game": 17,
+      "minecraft:leave_game": 18,
       "minecraft:mob_kills": 63,
       "minecraft:damage_taken": 130,
-      "minecraft:play_time": 103861,
+      "minecraft:play_time": 103893,
       "minecraft:damage_dealt": 7718,
       "minecraft:jump": 871,
-      "minecraft:time_since_death": 6123,
+      "minecraft:time_since_death": 6155,
       "minecraft:drop": 2,
       "minecraft:sprint_one_cm": 158108,
       "minecraft:open_chest": 10,
       "minecraft:inspect_hopper": 29,
       "minecraft:fall_one_cm": 4683,
-      "minecraft:total_world_time": 103861,
+      "minecraft:total_world_time": 103893,
       "minecraft:fly_one_cm": 811599,
       "minecraft:walk_on_water_one_cm": 3822,
       "minecraft:crouch_one_cm": 572,
@@ -54,6 +41,19 @@
       "minecraft:slime_ball": 28,
       "minecraft:mutton": 5,
       "minecraft:gunpowder": 7
+    },
+    "minecraft:killed": {
+      "minecraft:slime": 30,
+      "minecraft:horse": 12,
+      "minecraft:chicken": 7,
+      "minecraft:iron_golem": 2,
+      "minecraft:sheep": 5,
+      "minecraft:frog": 3,
+      "minecraft:sniffer": 4
+    },
+    "minecraft:dropped": {
+      "minecraft:netherite_spear": 1,
+      "minecraft:redstone_block": 1
     },
     "minecraft:used": {
       "minecraft:grass_block": 12,
@@ -91,5 +91,5 @@
       "minecraft:bedrock": 2
     }
   },
-  "DataVersion": 4903
+  "DataVersion": 5023
 }
