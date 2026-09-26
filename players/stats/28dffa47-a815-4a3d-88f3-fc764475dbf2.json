@@ -1,41 +1,49 @@
 {
   "stats": {
     "minecraft:custom": {
-      "minecraft:time_since_rest": 54625,
-      "minecraft:leave_game": 186,
+      "minecraft:time_since_rest": 65048,
+      "minecraft:talked_to_villager": 4,
+      "minecraft:leave_game": 188,
       "minecraft:damage_taken": 3804,
       "minecraft:mob_kills": 17,
       "minecraft:boat_one_cm": 270,
-      "minecraft:time_since_death": 54593,
+      "minecraft:time_since_death": 65016,
       "minecraft:interact_with_furnace": 16,
       "minecraft:inspect_dispenser": 1,
       "minecraft:happy_ghast_one_cm": 72598,
       "minecraft:swim_one_cm": 2041,
-      "minecraft:total_world_time": 845107,
-      "minecraft:crouch_one_cm": 48224,
+      "minecraft:total_world_time": 855530,
+      "minecraft:crouch_one_cm": 49562,
       "minecraft:deaths": 63,
       "minecraft:interact_with_stonecutter": 1,
       "minecraft:player_kills": 1,
       "minecraft:minecart_one_cm": 0,
       "minecraft:interact_with_crafting_table": 1,
       "minecraft:inspect_dropper": 83,
-      "minecraft:walk_one_cm": 1524958,
+      "minecraft:walk_one_cm": 1537909,
       "minecraft:walk_under_water_one_cm": 16699,
-      "minecraft:damage_dealt": 2869,
-      "minecraft:play_time": 845107,
-      "minecraft:jump": 3461,
+      "minecraft:damage_dealt": 2899,
+      "minecraft:play_time": 855530,
+      "minecraft:jump": 3521,
       "minecraft:drop": 43,
       "minecraft:use_cauldron": 25,
       "minecraft:bell_ring": 7,
-      "minecraft:sprint_one_cm": 370850,
+      "minecraft:sprint_one_cm": 373015,
       "minecraft:open_chest": 126,
       "minecraft:interact_with_smoker": 16,
       "minecraft:inspect_hopper": 87,
       "minecraft:fall_one_cm": 6053,
-      "minecraft:fly_one_cm": 3877865,
+      "minecraft:fly_one_cm": 3939760,
       "minecraft:interact_with_anvil": 1,
       "minecraft:walk_on_water_one_cm": 55525,
-      "minecraft:sneak_time": 28756
+      "minecraft:sneak_time": 29459
+    },
+    "minecraft:killed": {
+      "minecraft:happy_ghast": 1,
+      "minecraft:donkey": 1,
+      "minecraft:chicken": 1,
+      "minecraft:sheep": 3,
+      "minecraft:sniffer": 7
     },
     "minecraft:picked_up": {
       "minecraft:netherite_block": 3,
@@ -57,6 +65,7 @@
       "minecraft:grass_block": 4,
       "minecraft:iron_bars": 160,
       "minecraft:diamond": 84,
+      "minecraft:slime_ball": 29,
       "minecraft:torchflower_seeds": 1,
       "minecraft:pumpkin": 66,
       "minecraft:sugar": 220,
@@ -86,15 +95,8 @@
       "minecraft:comparator": 4,
       "minecraft:netherite_sword": 1
     },
-    "minecraft:mined": {
-      "minecraft:diamond_ore": 1
-    },
-    "minecraft:killed": {
-      "minecraft:happy_ghast": 1,
-      "minecraft:donkey": 1,
-      "minecraft:chicken": 1,
-      "minecraft:sheep": 3,
-      "minecraft:sniffer": 7
+    "minecraft:killed_by": {
+      "minecraft:player": 3
     },
     "minecraft:dropped": {
       "minecraft:cobblestone": 192,
@@ -112,6 +114,9 @@
       "minecraft:chest": 1,
       "minecraft:diamond_ore": 1,
       "minecraft:diamond": 84
+    },
+    "minecraft:mined": {
+      "minecraft:diamond_ore": 1
     },
     "minecraft:used": {
       "minecraft:polished_tuff": 98,
@@ -147,7 +152,7 @@
       "minecraft:crafter": 45,
       "minecraft:oak_log": 1128,
       "minecraft:spruce_slab": 70,
-      "minecraft:villager_spawn_egg": 16,
+      "minecraft:villager_spawn_egg": 18,
       "minecraft:stripped_oak_log": 262,
       "minecraft:nether_wart": 6,
       "minecraft:moss_block": 71,
@@ -205,7 +210,7 @@
       "minecraft:bedrock": 56,
       "minecraft:oak_trapdoor": 23,
       "minecraft:oak_fence": 3,
-      "minecraft:grass_block": 333,
+      "minecraft:grass_block": 354,
       "minecraft:spruce_fence": 313,
       "minecraft:nether_bricks": 45,
       "minecraft:observer": 137,
@@ -215,7 +220,7 @@
       "minecraft:happy_ghast_spawn_egg": 58,
       "minecraft:copper_grate": 15,
       "minecraft:ender_dragon_spawn_egg": 40,
-      "minecraft:dark_oak_log": 20,
+      "minecraft:dark_oak_log": 265,
       "minecraft:bamboo": 28,
       "minecraft:oak_boat": 6,
       "minecraft:deepslate_bricks": 456,
@@ -257,7 +262,7 @@
       "minecraft:smoker": 4,
       "minecraft:copper_door": 2,
       "minecraft:sulfur_cube_spawn_egg": 3,
-      "minecraft:smooth_quartz_slab": 85,
+      "minecraft:smooth_quartz_slab": 95,
       "minecraft:oxidized_cut_copper_slab": 12,
       "minecraft:black_concrete": 59,
       "minecraft:spruce_log": 180,
@@ -288,7 +293,7 @@
       "minecraft:composter": 4,
       "minecraft:nether_brick_stairs": 62,
       "minecraft:deepslate_brick_stairs": 81,
-      "minecraft:oak_stairs": 6,
+      "minecraft:oak_stairs": 8,
       "minecraft:comparator": 27,
       "minecraft:bamboo_planks": 48,
       "minecraft:redstone_lamp": 79,
@@ -302,9 +307,6 @@
       "minecraft:zombie_spawn_egg": 9,
       "minecraft:polished_andesite_slab": 461,
       "minecraft:oxidized_cut_copper_stairs": 12
-    },
-    "minecraft:killed_by": {
-      "minecraft:player": 3
     }
   },
   "DataVersion": 5023
